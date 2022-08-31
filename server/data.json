@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "firstName": "Virat",
+    "middleName": "Singh",
+    "lastName": "Kohli",
+    "email": "virat.kohli18@gmail.com",
+    "role": "Super Admin",
+    "phone": "9876483254",
+    "address": "Delhi"
+  },
+
+  {
+    "id": "2",
+    "firstName": "Mahendra",
+    "middleName": "Singh",
+    "lastName": "Dhoni",
+    "email": "dhoni.singh07@gmail.com",
+    "role": "Admin",
+    "phone": "7676483254",
+    "address": "Ranchi"
+  },
+
+  {
+    "id": "3",
+    "firstName": "Rishabh",
+    "middleName": "",
+    "lastName": "Pant",
+    "email": "rishabh.pant23@gmail.com",
+    "role": "Subscriber",
+    "phone": "9870983254",
+    "address": "Delhi"
+  },
+
+  {
+    "id": "4",
+    "firstName": "Hardik",
+    "middleName": "",
+    "lastName": "Pandya",
+    "email": "hardik.pandya32@gmail.com",
+    "role": "Subscriber",
+    "phone": "6376483254",
+    "address": "Pune"
+  },
+
+  {
+    "id": "5",
+    "firstName": "Rohit",
+    "middleName": "Singh",
+    "lastName": "Sharma",
+    "email": "rohit.sharma45@gmail.com",
+    "role": "Admin",
+    "phone": "9996483254",
+    "address": "Mumbai"
+  }
+]
