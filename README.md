@@ -1,1 +1,9 @@
 # Assignment-4
+
+Setup a back end server for the previous application. This needs to be a separate application. Create CRUD APIs (REST) for user model. Store data in JSON file. Use that as source of data. UI functionality should remain same. Everything should be in TS. Use express for REST APIs. Push the code to a separate repo on github. Generate a PR for review.
+
+Run code for Client and Server seperately.
+
+1. npm install
+2. tsc
+3. npm start
